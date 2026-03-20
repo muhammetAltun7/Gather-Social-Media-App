@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969490346623",
+    "project_id": "gather-bff3e",
+    "storage_bucket": "gather-bff3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969490346623:android:eec1b0b3ddd6d3932b054a",
+        "android_client_info": {
+          "package_name": "com.example.gather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWQ8YyFvED6Z5kmGRwE4AaJKuWyafrJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
