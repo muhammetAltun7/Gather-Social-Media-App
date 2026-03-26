@@ -4,9 +4,9 @@ Gather is a social media mobile application developed using Flutter. Users can c
 
 The application was developed using Firebase Authentication, Cloud Firestore, Firebase Storage, and Flutter's built-in state management.
 
-<img width="294" height="633" alt="3" src="https://github.com/user-attachments/assets/75cacd7d-cf7f-477e-8baf-8b58be2baffb" />
 <img width="301" height="629" alt="2" src="https://github.com/user-attachments/assets/15be5f2f-738c-4877-b5dd-2254e6b2f555" />
 <img width="317" height="660" alt="1" src="https://github.com/user-attachments/assets/4a86389e-0e64-4a6f-87db-37d9b21e4f57" />
+<img width="294" height="633" alt="3" src="https://github.com/user-attachments/assets/75cacd7d-cf7f-477e-8baf-8b58be2baffb" />
 <img width="300" height="628" alt="9" src="https://github.com/user-attachments/assets/1f8538ef-f8bb-4a7c-89c8-7c6c6c40bd4d" />
 <img width="299" height="632" alt="8" src="https://github.com/user-attachments/assets/cced56f0-a9a1-4125-999f-bedc38cc5c28" />
 <img width="303" height="631" alt="7" src="https://github.com/user-attachments/assets/b453ba04-13f7-49c1-86ab-1725f036a239" />
